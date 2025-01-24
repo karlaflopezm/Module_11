@@ -28,7 +28,7 @@ Average Pressure by Month: Demonstrates the fluctuation of atmospheric pressure 
 
 Prerequisites: Ensure you have Python installed along with necessary libraries such as matplotlib and pandas.
 
-Run the Notebook: The analysis is contained within the Jupyter Notebook (part_2_mars_weather.ipynb). Open it and execute the cells to generate the visualizations.
+Run the Notebook: The analysis is contained within the Jupyter Notebook. Open it and execute the cells to generate the visualizations.
 
 Explore the Results: Analyze the provided graphs and data to draw conclusions about Martian weather patterns.
 
